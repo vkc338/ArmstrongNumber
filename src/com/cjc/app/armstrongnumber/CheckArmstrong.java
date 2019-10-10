@@ -10,7 +10,6 @@ public class CheckArmstrong {
 		System.out.println("Enter the numbers");
 		
 		int n= sc.nextInt();
-		//int n=121;
 
 		
 		int p;
