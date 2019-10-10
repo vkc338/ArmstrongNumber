@@ -8,7 +8,7 @@ public class CheckArmstrong {
 		Scanner sc= new Scanner(System.in);
 		
 		System.out.println("Enter the numbers");
-		
+		System.out.println("Enter the numbers");
 		int n= sc.nextInt();
 
 		
